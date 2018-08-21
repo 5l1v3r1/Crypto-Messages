@@ -65,7 +65,7 @@ elif select == 3:
 elif select == 154:
     print("\u001b[32m[*] UPDATING CRYPTO MESSAGE...")
     os.system('clear')
-    os.system('git clone https://github.com/CYB3RMX/Crypto-Message')
+    os.system('git clone https://github.com/CYB3RMX/Crypto-Messages')
     print("\u001b[32m[*] UPDATING COMPLETE.")
     os.system('python crypto.py')
 else:
